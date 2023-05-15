@@ -7,15 +7,17 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 This solution was built using HTML and CSS.
 
-### Screenshot
+### Desktop view
 
-![Desktop Design](./desktop-screenshot.png)
+<img width="100%" height="400" src="./desktop-screenshot.png" alt="Desktop Design">
 
-![Mobile Design](./mobile-screenshot.png)
+### Mobile view
 
-### Links
+<img width="50%" src="./desktop-screenshot.png" alt="Desktop Design">
 
-- Live: [Add live site URL here](https://your-live-site-url.com)
+### Link
+
+- Vercel: [https://frontend-mentor-challenges-pi-smoky.vercel.app/](https://frontend-mentor-challenges-pi-smoky.vercel.app/)
 
 ### Built with
 
