@@ -13,11 +13,11 @@ This solution was built using HTML and CSS.
 
 ### Mobile view
 
-<img width="50%" src="./mobile-screenshot.png" alt="Desktop Design">
+<img height="50%" src="./mobile-screenshot.png" alt="Desktop Design">
 
 ### Link
 
-- Vercel: [https://frontend-mentor-challenges-pi-smoky.vercel.app/](https://frontend-mentor-challenges-pi-smoky.vercel.app/)
+[TRY IT OUT](https://frontend-mentor-challenges-pi-smoky.vercel.app/)
 
 ### Built with
 
