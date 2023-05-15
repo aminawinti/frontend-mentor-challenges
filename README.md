@@ -13,7 +13,7 @@ This solution was built using HTML and CSS.
 
 ### Mobile view
 
-<img width="50%" src="./desktop-screenshot.png" alt="Desktop Design">
+<img width="50%" src="./mobile-screenshot.png" alt="Desktop Design">
 
 ### Link
 
