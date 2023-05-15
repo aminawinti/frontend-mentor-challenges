@@ -7,18 +7,13 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 This solution was built using HTML and CSS.
 
-<p float="left">
-  <img src="./desktop-screenshot.png" width="48%" alt="Desktop Design"/> 
-  <img src="./mobile-screenshot.png" width="48%" alt="Mobile Design"/>
-</p>
+### Desktop view
 
-<!-- ### Desktop view
-
-<img width="100%" height="400" src="./desktop-screenshot.png" alt="Desktop Design">
+<img width="100%" src="./desktop-screenshot.png" alt="Desktop Design">
 
 ### Mobile view
 
-<img height="50%" src="./mobile-screenshot.png" alt="Desktop Design"> -->
+<img height="400" src="./mobile-screenshot.png" alt="Mobile Design">
 
 ### Link
 
